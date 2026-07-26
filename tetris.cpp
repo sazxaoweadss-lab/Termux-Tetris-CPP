@@ -11,7 +11,7 @@
 using namespace std;
 
 const int W = 10, H = 20;
-const string BLK = "██", EMP = "  ", BORD = "▒▒;
+const string BLK = "██", EMP = "  ", BORD =;
 
 struct Piece {
     int x, y, size;
